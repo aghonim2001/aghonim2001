@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghonim2001&label=Profile%20views&color=0e75b6&style=flat" alt="aghonim2001" /> </p>
 
 
-- 💬 Ask me about **react,js,html,css**
 
-- 📫 How to reach me **abdulrahman-ghonim.proton.me**
+- 📫 How to reach me **abdulrahman-ghonim@proton.me    ~         +201017633255**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
